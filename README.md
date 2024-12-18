@@ -1,0 +1,3 @@
+# Web Scraper for amazon.com 
+
+Does not work on amazon.in, still in the works...
